@@ -48,7 +48,7 @@ In a compute simulation, I launched a **Windows Server 2019 EC2 instance** (t2.m
   "ToPort": 80,
   "CidrIp": "0.0.0.0/0"
 }
-
+```
 Restricted inbound traffic to HTTP only.
 
 Denied unrestricted SSH (port 22) access.
