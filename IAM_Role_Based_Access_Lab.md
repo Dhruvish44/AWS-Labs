@@ -63,4 +63,4 @@ IAM groups and policies were already defined:
 ---
 
 📎 **References**  
-- [Original Lab PDF](./labs/Introduction_to_AWS_IAM.pdf)  
+- [Original Lab PDF](./Introduction_to_AWS_IAM.pdf)  
