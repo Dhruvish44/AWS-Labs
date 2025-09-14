@@ -1,7 +1,7 @@
 # 🔐 AWS Security & Governance Labs  
 
 **Author:** [Dhruvish Rathod](https://www.linkedin.com/in/dhruvish-rathod-78a614250/)  
-**Role:** SOC Analyst | Cloud Security Enthusiast | Cloud Security Engineer in Training  
+**Role:** SOC Analyst | Cloud Security Enthusiast | Cloud Engineer in Training  
 
 ---
 
