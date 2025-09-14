@@ -24,6 +24,9 @@ The purpose is **Proof-of-Work** → instead of only earning certifications, I d
 - `*.pdf` → Original exported lab reports from AWS SkillBuilder  
 - Future labs will follow the same pattern for consistency  
 
+📌 Note: The lab **steps are provided by AWS SkillBuilder**, but I personally executed each step in the AWS simulated console and captured **my own screenshots** as evidence.  
+The `.md` files combine the official lab flow with **my documented results, findings, and remediation notes**.  
+This ensures the repo reflects **hands-on practice**, not just copied instructions.
 
 
 ---
