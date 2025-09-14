@@ -51,4 +51,4 @@ Design a **Virtual Private Cloud (VPC)** with public and private subnets, attach
 ---
 
 ## 📄 Lab PDF  
-[View here](./AWS_VPC_Lab.pdf)
+[View here](./AWS_VPC.pdf)
