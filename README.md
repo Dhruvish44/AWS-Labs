@@ -39,6 +39,10 @@ This ensures the repo reflects **hands-on practice**, not just copied instructio
 | Amazon S3 Security & Bucket Policy | [View .md](./S3_Security_Simulation.md) | [View PDF](./Introduction%20to%20Amazon%20Simple%20Storage%20Service%20(S3).pdf) |
 | Amazon VPC Security & Networking | [View .md](./VPC__Simulation.md) | [View PDF](./AWS_VPC.pdf) |
 
+### Custom Writeups (Independent)  
+- EC2 Security Simulation → [Writeup](./custom-writeups/EC2_Security_Simulation.md)  
+- IAM Audit Simulation → [Writeup](./custom-writeups/IAM_Audit_Simulation.md)  
+- VPC Security Simulation → [Writeup](./custom-writeups/VPC_Security_Simulation.md)  
 ---
 
 ## 🚀 Why This Repo?  
