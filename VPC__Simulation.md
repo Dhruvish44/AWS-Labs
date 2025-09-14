@@ -50,4 +50,4 @@ Design a **Virtual Private Cloud (VPC)** with public and private subnets, attach
 
 ---
 
-📄 **Lab PDF:** [View here](https://github.com/Dhruvish44/AWS-Labs/blob/main/Introduction%20to%20Amazon%20Virtual%20Private%20Cloud%20(VPC).pdf)  
+📄 **Lab PDF:** [View here](./Introduction%20to%20Amazon%20Virtual%20Private%20Cloud%20(VPC).pdf)  
