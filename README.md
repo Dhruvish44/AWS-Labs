@@ -38,6 +38,12 @@ This ensures the repo reflects **hands-on practice**, not just copied instructio
 | IAM Role-Based Access Audit | [View .md](./IAM_Role_Based_Access_Lab.md) | [View PDF](./Introduction%20to%20AWS%20Identity%20and%20Access%20Management%20(IAM).pdf) |
 | Amazon S3 Security & Bucket Policy | [View .md](./S3_Security_Simulation.md) | [View PDF](./Introduction%20to%20Amazon%20Simple%20Storage%20Service%20(S3).pdf) |
 | Amazon VPC Security & Networking | [View .md](./VPC__Simulation.md) | [View PDF](./AWS_VPC.pdf) |
+| AWS Environment Audit Simulation | [View .md](./AWS_Environment_Audit_Simulation.md) | [View PDF](./Performing%20a%20Basic%20Audit%20of%20your%20AWS%20Environment.pdf) |
+| Introduction to Amazon API Gateway| [View .md](./Introduction%20to%20Amazon%20API%20Gateway%20.md) | [View PDF](./Introduction%20to%20Amazon%20API%20Gateway.pdf) |
+| DynamoDB Simulation | [View .md](./DynamoDB_Simulation.md) | [View PDF](./Lab%20-%20Introduction%20to%20Amazon%20DynamoDB.pdf) |
+| AWS Lambda & S3 Event-Driven Simulation | [View .md](./Lambda_Simulation.md) | [View PDF](./Introduction%20to%20AWS%20Lambda.pdf) |
+| AWS KMS Security & Encryption Simulation | [View .md](./KMS_Security_Simulation.md) | [View PDF](./Introduction%20to%20AWS%20Key%20Management%20Service.pdf) |
+
 
 ### Custom Writeups (Independent)  
 - EC2 Security Simulation → [Writeup](./custom-writeups/EC2_Security_Simulation.md)  
